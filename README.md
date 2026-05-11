@@ -30,17 +30,17 @@ pip install -r requirements.txt
 python ImageEncryptor.py
 ```
 ## 📖 How to Use
-### Encrypt an Image
+### 🔐 Encrypt an Image
 1. Click **Encrypt (Generate Key)** button.
 2. Select an image file you want to protect.
 3. Choose a location to save the encrypted file (it will have a `.enc` extension).
 4. **Important:** Copy the generated key from the text box and save it securely. You cannot decrypt the image without this key!
-### Decrypt an Image
+### 🔓 Decrypt an Image
 1. Paste your key into the **Encryption Key** field.
 2. Click the **Decrypt** button.
 3. Select the .enc file you wish to decrypt.
 4. Choose where to save the restored image (e.g., as a `.png` or `.jpg`).
-# Project Structure
+# 📁 Project Structure
 ```
 .
 ├── .gitignore          # Files to ignore in Git
