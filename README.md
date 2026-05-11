@@ -45,7 +45,6 @@ python ImageEncryptor.py
 .
 ├── .gitignore          # Files to ignore in Git
 ├── ImageEncryptor.py   # Main source code
-├── imageEncryptor.spec # PyInstaller build specification
 ├── LICENSE             # MIT License file
 ├── README.md           # Project documentation
 └── requirements.txt    # List of Python dependencies
