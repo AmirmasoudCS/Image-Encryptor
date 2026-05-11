@@ -51,4 +51,4 @@ python ImageEncryptor.py
 └── requirements.txt    # List of Python dependencies
 ```
 # ⚖️ License
-This project is licensed under the **MIT License**. See the [License]LICENSE file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
