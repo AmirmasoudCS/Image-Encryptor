@@ -43,11 +43,11 @@ python ImageEncryptor.py
 # 📁 Project Structure
 ```
 .
-├── .gitignore          # Files to ignore in Git
-├── ImageEncryptor.py   # Main source code
-├── LICENSE             # MIT License file
-├── README.md           # Project documentation
-└── requirements.txt    # List of Python dependencies
+├── 🚫 .gitignore          # Files to ignore in Git
+├── 🐍 ImageEncryptor.py   # Main source code
+├── ⚖️ LICENSE             # MIT License file
+├── 📖 README.md           # Project documentation
+└── 📝 requirements.txt    # List of Python dependencies
 ```
 # ⚖️ License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
